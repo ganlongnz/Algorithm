@@ -1,1 +1,1 @@
-# This repo is algorithm test.
+# Algorithm test.
